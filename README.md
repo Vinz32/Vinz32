@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a first-year college student in [Your Course] at [Your School], with a growing foundation in programming languages such as Java and C++. I’m eager to improve my skills, take on challenges, and continuously develop both academically and professionally.<br>⦁🌱 I’m currently Learning...<br>           ∘ C++<br>           ∘ C<br>⦁👯 I’m looking forward to collaborate on open source projects.<br>⦁💬 Ask me about anything I am happy to help<br>⦁ Outside tech: ✏️I like to draw 📷taking picture 🎮playing videogames 🎵listening to music and Taking adventures<br>⦁ Reach out me at Vincentplaza32@gmail.com
+I’m a first-year college student in BSIT, with a growing foundation in programming languages such as Java and C++. I’m eager to improve my skills, take on challenges, and continuously develop both academically and professionally.<br>⦁🌱 I’m currently Learning...<br>           ∘ C++<br>           ∘ C<br>⦁👯 I’m looking forward to collaborate on open source projects.<br>⦁💬 Ask me about anything I am happy to help<br>⦁ Outside tech: ✏️I like to draw 📷taking picture 🎮playing videogames 🎵listening to music and Taking adventures<br>⦁ Reach out me at Vincentplaza32@gmail.com
 
 
 # 💻 Tech Stack:
